@@ -1,10 +1,13 @@
-## System Specs:
+## My homemade iMac!  
+
+![image](https://user-images.githubusercontent.com/15821115/111917355-e728dc00-8a55-11eb-8855-2ed95bfb4e31.png)
+
+All credit to the people behind the [OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/) who make this process as breezy as it can be
+## Specs:
 
 **CPU** : `Intel Core i7-7700K`  
 **Motherboard** : `MSI Z270 PC MATE`  
 **GPU1 (disabled)**: `EVGA GTX1080 FE`  
-**GPU2** : `Radeon Pro WX-4100`  
-**Memory** : `Corsair Vengeance LED 16 GB (2 x 8 GB) DDR4-3200 CL16`  
-**Storage** : `Samsung 970 Evo Plus 250 GB M.2-2280 NVME`   
-**Power Supply** : `EVGA B3 650 W 80+`   
-**Monitor** : `LG 27GL850-B 27.0"`   
+**GPU2** : `Radeon Pro WX-4100`    
+**Storage** : `Samsung 970 Evo Plus 250 GB M.2-2280 NVME`     
+**Monitor** : `LG 27GL850-B 27.0"`  
